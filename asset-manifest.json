@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dicoding_react_note/static/css/main.e02ddb4a.css",
+    "main.js": "/dicoding_react_note/static/js/main.1ad3f387.js",
+    "index.html": "/dicoding_react_note/index.html",
+    "main.e02ddb4a.css.map": "/dicoding_react_note/static/css/main.e02ddb4a.css.map",
+    "main.1ad3f387.js.map": "/dicoding_react_note/static/js/main.1ad3f387.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e02ddb4a.css",
+    "static/js/main.1ad3f387.js"
+  ]
+}
